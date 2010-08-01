@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Twitter URL  
-Plugin URI: http://liamparker.com/  
+Plugin URI: http://liamparker.com/
 Description: A Wordpress plugin that replaces Twitter @replies and #hashtags with the appropriate Twitter links.
 Version: 1.0
 Author: LMP
