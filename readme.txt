@@ -11,4 +11,5 @@ A Wordpress plugin that replaces Twitter @replies and #hashtags with the appropr
 
 == Change Log ==
 
-1.1 * Second release - Bug fixes 
+1.0 * First release  
+1.1 * Bug fixes 
