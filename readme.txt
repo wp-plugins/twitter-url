@@ -1,4 +1,5 @@
 === Twitter URL ===
+Contributors: parkeli
 Tags: Twitter, @replies, hashtags, URL
 Contributors: Liam Parker
 Requires at least: 2.7
@@ -11,6 +12,11 @@ A Wordpress plugin that replaces Twitter @replies and #hashtags with the appropr
 
 == Change Log ==
 
-1.0 * First release  
-1.1 * Bug fixes 
-1.2 * More bug fixes 
+= 1.0 = 
+* First release  
+
+= 1.1 = 
+* Bug fixes 
+
+= 1.2 =  
+* More bug fixes 
